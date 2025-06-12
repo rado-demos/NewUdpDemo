@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="/home/rado/Projects/Lazarus/Install/fpc/bin/x86_64-linux/fpc.sh" Date="1719300645"/>
-  <Params Value="-MObjFPC -Scaghi -Cg -CirotR -O1 -gw3 -gl -gh -gt -l -vewnhibq -Fi/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/lib/x86_64-linux -Fu/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/ -Fu/home/rado/Projects/Lazarus/Install/lazarus/lcl/units/x86_64-linux/gtk2 -Fu/home/rado/Projects/Lazarus/Install/lazarus/lcl/units/x86_64-linux -Fu/home/rado/Projects/Lazarus/Install/lazarus/components/freetype/lib/x86_64-linux -Fu/home/rado/Projects/Lazarus/Install/lazarus/components/lazutils/lib/x86_64-linux -Fu/home/rado/Projects/Lazarus/Install/lazarus/packager/units/x86_64-linux -FU/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/lib/x86_64-linux/ -FE/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/out/ -o/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/out/NewUdpDemo_DEBUG -dLCL -dLCLgtk2 NewUdpDemo.lpr"/>
-</CONFIG>

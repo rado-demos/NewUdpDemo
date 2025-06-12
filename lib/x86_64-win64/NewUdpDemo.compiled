@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/home/rado/Projects/Lazarus/trunk/fpc/bin/x86_64-linux/fpc.sh" Date="1732877473"/>
+  <Params Value="-Twin64 -Px86_64 -MObjFPC -Scghi -CX -O3 -Xs -XX -WG -l -vewnhibq -Fi/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/lib/x86_64-win64 -Fu/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/ -Fu/home/rado/Projects/Lazarus/trunk/lazarus/lcl/units/x86_64-win64/win32 -Fu/home/rado/Projects/Lazarus/trunk/lazarus/lcl/units/x86_64-win64 -Fu/home/rado/Projects/Lazarus/trunk/lazarus/components/freetype/lib/x86_64-win64 -Fu/home/rado/Projects/Lazarus/trunk/lazarus/components/lazutils/lib/x86_64-win64 -Fu/home/rado/Projects/Lazarus/trunk/lazarus/packager/units/x86_64-win64 -FU/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/lib/x86_64-win64/ -FE/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/out/ -o/home/rado/Projects/Lazarus/ProMax/NewUdpDemo/out/NewUdpDemo_win64.exe -dLCL -dLCLwin32 NewUdpDemo.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
